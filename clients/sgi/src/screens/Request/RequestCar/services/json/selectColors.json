@@ -1,0 +1,28 @@
+{
+  "colorsCar": [
+    {
+      "value": "Branco",
+      "label": "Branco"
+    },
+    {
+      "value": "Preto",
+      "label": "Preto"
+    },
+    {
+      "value": "Prata",
+      "label": "Prata"
+    },
+    {
+      "value": "Cinza",
+      "label": "Cinza"
+    },
+    {
+      "value": "Vermelho",
+      "label": "Vermelho"
+    },
+    {
+      "value": "Azul",
+      "label": "Azul"
+    }
+  ]
+}

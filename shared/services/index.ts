@@ -1,0 +1,6 @@
+export { default as api } from './src/api'
+export { default as baseUrl } from './src/baseUrl'
+export { default as kbb } from './src/kbb'
+export { default as fipe } from './src/fipe'
+export { default as carfects } from './src/carfects'
+export { default as discord } from './src/discord'

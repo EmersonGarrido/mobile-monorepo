@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180786652817",
+    "firebase_url": "https://ra-brasil-veiculos.firebaseio.com",
+    "project_id": "ra-brasil-veiculos",
+    "storage_bucket": "ra-brasil-veiculos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180786652817:android:88f4765cf4695e79b5c130",
+        "android_client_info": {
+          "package_name": "com.rabrasilseminovos.reports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180786652817-nnqa7mcfh9jhnhr82ak93d3pn02j2ge8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEJTnKsbwiAevyYnI5sy4ReO_HHx73WfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180786652817-nnqa7mcfh9jhnhr82ak93d3pn02j2ge8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

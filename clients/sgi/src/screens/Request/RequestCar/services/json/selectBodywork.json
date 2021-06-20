@@ -1,0 +1,44 @@
+{
+  "bodywork": [
+    {
+      "value": "Sedã",
+      "label": "Sedã"
+    },
+    {
+      "value": "Hatch",
+      "label": "Hatch"
+    },
+    {
+      "value": "Coupé",
+      "label": "Coupé"
+    },
+    {
+      "value": "Conversível",
+      "label": "Conversível"
+    },
+    {
+      "value": "Cabriolet",
+      "label": "Cabriolet"
+    },
+    {
+      "value": "Pick-up",
+      "label": "Pick-up"
+    },
+    {
+      "value": "Jipe",
+      "label": "Jipe"
+    },
+    {
+      "value": "Crossover ou Suv",
+      "label": "Crossover ou Suv"
+    },
+    {
+      "value": "Utilitários",
+      "label": "Utilitários"
+    },
+    {
+      "value": "Monovolumes",
+      "label": "Monovolumes"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "label": "Ótimo",
+    "value": "Ótimo"
+  },
+  {
+    "label": "Bom",
+    "value": "Bom"
+  },
+  {
+    "label": "Rasgado",
+    "value": "Rasgado"
+  },
+  {
+    "label": "Desgastado",
+    "value": "Desgastado"
+  },
+  {
+    "label": "Arranhado",
+    "value": "Arranhado"
+  },
+  {
+    "label": "Quebrado",
+    "value": "Quebrado"
+  },
+  {
+    "label": "Faltando",
+    "value": "Faltando"
+  },
+  {
+    "label": "Sujo",
+    "value": "Sujo"
+  },
+  {
+    "label": "Não tem",
+    "value": "Não tem"
+  },
+  {
+    "label": "Funcionando",
+    "value": "Funcionando"
+  },
+  {
+    "label": "Não funciona",
+    "value": "Não funciona"
+  },
+  {
+    "label": "Trocar",
+    "value": "Trocar"
+  },
+  {
+    "label": "Acesas",
+    "value": "Acesas"
+  }
+]

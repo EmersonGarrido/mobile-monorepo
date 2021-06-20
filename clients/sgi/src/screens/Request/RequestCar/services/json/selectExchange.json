@@ -1,0 +1,12 @@
+{
+  "exchange" : [
+    {
+      "label": "Manual",
+      "value": "Manual"
+    },
+    {
+      "label": "Automático",
+      "value": "Automático"
+    }
+  ]
+}

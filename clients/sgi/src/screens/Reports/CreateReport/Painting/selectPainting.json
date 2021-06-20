@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Nenhum",
+    "value": "Nenhum"
+  },
+  {
+    "label": "Pintura Original",
+    "value": "Pintura Original"
+  },
+  {
+    "label": "Pintura",
+    "value": "Pintura"
+  },
+  {
+    "label": "Repintura com Massa Polida",
+    "value": "Repintura com Massa Polida"
+  },
+  {
+    "label": "Variação",
+    "value": "Variação"
+  },
+  {
+    "label": "Não Aplicável",
+    "value": "Não Aplicável"
+  }
+]

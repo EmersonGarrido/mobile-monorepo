@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-8839277756059044953-155020",
+  "private_key_id": "b3e3761c263c30dc49d8cc1a8aeddd6ba4d0b5d0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLlmh9XgAWaapY\nBIY4qjrniZI3AWLNVx5bSrZnB7IZ7B/z8Du/IxXI5TqxNxD7dJyMKbhi9ip3PuCN\nxePNgJM7LSAFrNbfUkAdObdD/DcnrzazlkHAPQ65w92grkx+SOQ5b4dpXlCURztr\ndJR9NWfP2c1tdSZapLEOp2L18YiXQ+QXhM/NvgY9X9ttNIClK23Jc2UfmF6LpC9k\n/HaWnJgO4vNjPxBfxBwu7KjgUMplBp21joYs2lJBASf+c6zR42jpAz3ruFPQmBHl\nTJarSS/y6fYy1YNDAklAfHfcWELfnzv0WYTNGwd5hsIOLNvAjPtnmSlvoGZCYomv\nvtn/vNBRAgMBAAECggEAGDN3IUlDZZ9jT8hVBw0Ikm0pIw1D9osEsdpFvp44dEMa\nlR4RFcX8+Gw53VDJSneAztJK7Cl22l7V6u6k3NPOcwOTWjiJtoVZpVeE3S4k1+YK\na1+BPdW4MF/zlHCzxW9Y1lZuWUfnW5XwCOTY+85fFcvS0IfvouaL5hkCUNbUEjmL\nB/aBfAuf8kwapjWL24zfKZ0YkqmE+FRTfeNDIxCDLwh4fbeVaYQfiU+0Erg4rgDc\nbiWFlLaMXMmGnT1381ceox5+/G9qTWWuW3Hbsr+fTtji5S4pqWIZPgDeH3x66Yih\nfxdu06zuv29BlJ/06ZgCW53LYkfpaiWu54Zy/R/AQwKBgQDBzeeeiuM7QVeWIlGK\nojB5lvejT6o/id8B01rWJwy7pcp6pVYnp+k1QdWSnntcgYHxQ80O18UU+N6Vik8h\nYuU7eLruzeIMrEQOQ6OjNPIXE3lhvmnlFRwzThWXvBQiAxc7n+wSwRincwDYfFlu\nmRPTDS4exeX8BVx8FHv+7ZMZMwKBgQC4YkuLQdDYkm6PKYPNjm/4otA9x3TqqUmJ\nN5Veo9zRmFDGMlVMl7E+EDiAfTG863hz015/M44XB3QFa2kQ7fuqdwE2ZCI19J7p\nCByHKw82jp6PBgJzQhR75NvTwp3nBqaNN7yhQbFqE7QFK//jlVUiAhLV8MVK7mbx\nfswnoImYawKBgHBUCJhixZuVns9c6sggg1ol/zg/t1yGa6QiPXb8QSwNxtLZO5tW\nfhupIcGOa8/NHGSbOKIOu6MRL+matYyTRmv26Nn6qLdRrUxbNeAlkt9/IQ5fD/+A\nAc1Wx7sffsfL5M5hPbINC14akPXo9OjefpgH/qBFcaxl6xnbwZabWnPzAoGAIdH9\n01RGL4NkfiP6RhkLVsrecYaFXomgsGeeoVZjKZrLrh8LYFouq5ikFIViOynh1TT/\nD0vwky7NzDSwd+d/EvxzH3vsfoMZJttTCEQQrUwpr0hF6MhFI5iN7eCzv+2LXTnN\nArMfDLsCeTRh4mfAztUciVt5hM4H2eINJnOe6XMCgYAdoBv9BzNoHJ9emJjZUnmy\ncIUGIZLxt6hXjt13qhC33tVo243BgLFQpdOtU/iXU7sMQkhMWwZ90vijprHjKj7u\n/u73mfY+1ZVR8ioba/4gwQJRFTAjssZ9g2+4O241CRduZ+b5yxR5DR7Wh14HF34F\nVum9xyibGN0MdARBsYkyYQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "expo-rabrasil-build@api-8839277756059044953-155020.iam.gserviceaccount.com",
+  "client_id": "116851672487232754925",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expo-rabrasil-build%40api-8839277756059044953-155020.iam.gserviceaccount.com"
+}

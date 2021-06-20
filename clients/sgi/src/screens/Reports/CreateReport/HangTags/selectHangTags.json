@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Nenhum",
+    "value": "Nenhum"
+  },
+  {
+    "label": "Ausente",
+    "value": "Ausente"
+  },
+  {
+    "label": "Danificada",
+    "value": "Danificada"
+  },
+  {
+    "label": "Com Núcleo Destruido",
+    "value": "Com Núcleo Destruido"
+  },
+  {
+    "label": "Implantada",
+    "value": "Implantada"
+  },
+  {
+    "label": "Original",
+    "value": "Original"
+  },
+  {
+    "label": "Pintada",
+    "value": "Pintada"
+  },
+  {
+    "label": "Sem Campo Visual",
+    "value": "Sem Campo Visual"
+  },
+  {
+    "label": "Totalmente Destruida",
+    "value": "Totalmente Destruida"
+  }
+]

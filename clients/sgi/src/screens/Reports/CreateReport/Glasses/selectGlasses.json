@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Nenhum",
+    "value": "Nenhum"
+  },
+  {
+    "label": "Original",
+    "value": "Original"
+  },
+  {
+    "label": "Não Original",
+    "value": "Não Original"
+  },
+  {
+    "label": "Numeracao Lixada",
+    "value": "Numeracao Lixada"
+  },
+  {
+    "label": "Remarcado Dentro dos Padrões",
+    "value": "Remarcado Dentro dos Padrões"
+  },
+  {
+    "label": "Remarcado Fora dos Padrões",
+    "value": "Remarcado Fora dos Padrões"
+  },
+  {
+    "label": "Sem Gravação",
+    "value": "Sem Gravação"
+  },
+  {
+    "label": "Não Possui Numeração",
+    "value": "Não Possui Numeração"
+  },
+  {
+    "label": "Não Possui o Vidro",
+    "value": "Não Possui o Vidro"
+  }
+]

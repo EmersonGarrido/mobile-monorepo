@@ -1,0 +1,66 @@
+[
+  {
+    "label": "Nenhum",
+    "value": "Nenhum"
+  },
+  {
+    "label": "Arrebitada",
+    "value": "Arrebitada"
+  },
+  {
+    "label": "Ausente",
+    "value": "Ausente"
+  },
+  {
+    "label": "Bom",
+    "value": "Bom"
+  },
+  {
+    "label": "Danificada",
+    "value": "Danificada"
+  },
+  {
+    "label": "Ilegível",
+    "value": "Ilegível"
+  },
+  {
+    "label": "Inoperante",
+    "value": "Inoperante"
+  },
+  {
+    "label": "Não",
+    "value": "Não"
+  },
+  {
+    "label": "Operante",
+    "value": "Operante"
+  },
+  {
+    "label": "Quebrada",
+    "value": "Quebrada"
+  },
+  {
+    "label": "Queimados",
+    "value": "Queimados"
+  },
+  {
+    "label": "Regular",
+    "value": "Regular"
+  },
+  {
+    "label": "Ruim",
+    "value": "Ruim"
+  },
+  {
+    "label": "Sim",
+    "value": "Sim"
+  },
+  {
+    "label": "Targeta Divergente do Crv/crlv",
+    "value": "Targeta Divergente do Crv/crlv"
+  },
+  {
+    "label": "Torta",
+    "value": "Torta"
+  }
+]

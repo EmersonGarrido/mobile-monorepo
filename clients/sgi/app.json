@@ -1,0 +1,65 @@
+{
+  "expo": {
+    "name": "RA Brasil SGI",
+    "slug": "rabrasil",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "9.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#003f82"
+    },
+    "notification": {
+      "icon": "./src/assets/favicon.png",
+      "color": "#FFFFFF",
+      "androidMode": "collapse",
+      "androidCollapsedTitle": "Nova Mensagem"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1",
+      "supportsTablet": false,
+      "bundleIdentifier": "com.rabrasilseminovos.reports"
+    },
+    "android": {
+      "package": "com.rabrasilseminovos.reports",
+      "versionCode": 9,
+      "permissions": [
+        "CAMERA",
+        "CAMERA_ROLL",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_CONTACTS",
+        "RECORD_AUDIO",
+        "VIBRATE",
+        "MANAGE_DOCUMENTS",
+        "RECEIVE_BOOT_COMPLETED",
+        "NOTIFICATIONS",
+        "USER_FACING_NOTIFICATIONS",
+        "LOCATION",
+        "MOTION",
+        "SYSTEM_BRIGHTNESS",
+        "REMINDERS",
+        "CALENDAR"
+      ],
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/ic_launcher_foreground.png",
+        "backgroundImage": "./src/assets/ic_launcher_background.png",
+        "backgroundColor": "#003f82"
+      }
+    },
+    "description": ""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@shared/helpers",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "intl": "^1.2.5",
+    "lodash": "^4.17.15",
+    "react-native-flash-message": "^0.1.15",
+    "yup": "^0.29.1"
+  }
+}

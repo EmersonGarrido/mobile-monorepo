@@ -1,0 +1,46 @@
+[
+  {
+    "label": "Nenhum",
+    "value": "Nenhum"
+  },
+  {
+    "label": "Amassado",
+    "value": "Amassado"
+  },
+  {
+    "label": "Com Solda e Massa",
+    "value": "Com Solda e Massa"
+  },
+  {
+    "label": "Danificado",
+    "value": "Danificado"
+  },
+  {
+    "label": "Ponta Danificada",
+    "value": "Ponta Danificada"
+  },
+  {
+    "label": "Reparado",
+    "value": "Reparado"
+  },
+  {
+    "label": "Trincado",
+    "value": "Trincado"
+  },
+  {
+    "label": "Trocado",
+    "value": "Trocado"
+  },
+  {
+    "label": "Original",
+    "value": "Original"
+  },
+  {
+    "label": "Não Aplicável",
+    "value": "Não Aplicável"
+  },
+  {
+    "label": "Não Avaliado",
+    "value": "Não Avaliado"
+  }
+]
